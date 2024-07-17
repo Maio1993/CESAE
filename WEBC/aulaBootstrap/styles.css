@@ -1,0 +1,30 @@
+#neubar {
+    background: hsl(33, 80%, 90%);
+    box-shadow: 4px 6px 12px rgba(0,0,0,0.4)
+  }
+  
+  .nav-item .active {
+    border-radius: 6px;
+    background: linear-gradient(145deg, #ffe7ca, #f5d7b2);
+    box-shadow:  4px 4px 8px #ddc1a0,
+                 -4px -4px 8px hsl(35, 73%, 88%);
+  }
+  #neubar .dropdown-menu a:hover {
+    color: #454545
+  }
+  #neubar .nav-item {
+    margin : auto 4px;
+  }
+  #neubar a {
+  
+    padding-left:12px;
+    padding-right:12px;
+  }
+  #neubar .dropdown-menu {
+    background : #ffffff
+  }
+  a.navbar-brand {
+    color: #454545
+  }
+
+ 
